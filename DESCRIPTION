@@ -6,3 +6,5 @@ Authors@R: person("Duncan", "Garmonsway", , "nacnudus@gmail.com", c("aut", "cre"
 License: MIT + file LICENSE
 Encoding: UTF-8
 LazyData: true
+URL: https://github.com/nacnudus/remerkable
+BugReports: https://github.com/nacnudus/remerkable/issues
