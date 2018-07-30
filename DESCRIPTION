@@ -1,0 +1,8 @@
+Package: remerkable
+Version: 0.0.0.9000
+Title: Example Merkle Tree Implementation
+Description: Implements Merkle trees and various operations on them, as examples to assist understanding of the theory.
+Authors@R: person("Duncan", "Garmonsway", , "nacnudus@gmail.com", c("aut", "cre"))
+License: MIT + file LICENSE
+Encoding: UTF-8
+LazyData: true
